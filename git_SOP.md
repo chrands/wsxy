@@ -52,17 +52,9 @@ git branch -m main
 
 3、绑定远程仓库 (使用含 Token 地址，实现免密推送)：
 
-
-
 git remote add origin https://您的Token@github.com/chrands/wsxy.git
 
-
-
 4、推送到 GitHub：
-
-
-
-
 
 git push -u origin main
 
